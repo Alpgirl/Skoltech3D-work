@@ -1,0 +1,3 @@
+FROM sk3d/colmap:latest
+
+ENTRYPOINT ["/bin/bash"]
